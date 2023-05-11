@@ -1,0 +1,15 @@
+C:\Users\estel\onedrive\Escritorio\Proyecto\bin\Debug\net6.0\Proyecto.exe
+C:\Users\estel\onedrive\Escritorio\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+C:\Users\estel\onedrive\Escritorio\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+C:\Users\estel\onedrive\Escritorio\Proyecto\bin\Debug\net6.0\Proyecto.dll
+C:\Users\estel\onedrive\Escritorio\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.dll
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+C:\Users\estel\onedrive\Escritorio\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
